@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "963637534840",
+    "project_id": "firebase-allocations"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963637534840:android:55504be1294c3bdf",
+        "android_client_info": {
+          "package_name": "com.allocations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963637534840-hbtu18na75kqhhfabdeetu8uk0ndkldb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allocations",
+            "certificate_hash": "D377E198D00FA97972CEB01A231C75722B3520E3"
+          }
+        },
+        {
+          "client_id": "963637534840-0ud81epicq580fu9knu8n44ovdfeso92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLN4WvqqgKli4Dcj_9-PEKxcwDPhml6hI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
