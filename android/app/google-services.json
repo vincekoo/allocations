@@ -13,7 +13,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "963637534840-hbtu18na75kqhhfabdeetu8uk0ndkldb.apps.googleusercontent.com",
+          "client_id": "963637534840-ee2tfv3pktutra099plnbd43u8h9nae2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.allocations",
@@ -21,13 +21,13 @@
           }
         },
         {
-          "client_id": "963637534840-0ud81epicq580fu9knu8n44ovdfeso92.apps.googleusercontent.com",
+          "client_id": "963637534840-ebr4gbbscd1ruvectds2ee49m0t5bima.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBLN4WvqqgKli4Dcj_9-PEKxcwDPhml6hI"
+          "current_key": "AIzaSyBDrDxxnerEwk9E3ttJnoU6rtfJ7wNVVc8"
         }
       ],
       "services": {
